@@ -51,7 +51,7 @@ Analyze Superstore sales data to uncover business insights and build an interact
 
 ## ▶️ How to Run Locally
 
-```bash
+
 pip install -r requirements.txt
 streamlit run app.py
 
